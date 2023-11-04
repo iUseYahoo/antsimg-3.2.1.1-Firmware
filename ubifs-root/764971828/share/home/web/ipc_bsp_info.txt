@@ -1,0 +1,19 @@
+ipc and bsp info(branch and log) : 
+
+ipc_branch:
+   dev
+* dev_release_20160617
+  master
+
+ipc_log:
+ commit=099e2fdf9bb886f159641c589c112b359082eb11
+
+bsp_branch:
+   dev
+* dev_release_20160617_new_ddr
+  live_tmall
+  master
+
+bsp_log:
+ commit=395c830b4fa5cd70530a72ff3a00bbd91f7f3944
+
